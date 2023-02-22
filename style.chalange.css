@@ -1,0 +1,105 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+
+}
+@font-face{
+    font-family:FiraGo;
+    src:url(./fonts/FiraGO-Regular.woff)
+}
+@font-face{
+    font-family:Popins;
+    src:url(./fonts/Poppins-Regular.ttf)
+}
+.tittle{
+    font-family:Popins;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 27.451px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.border-right{
+    border-right: 1px solid #5736B8;
+    top:0px;
+}
+.donwload-btn a {
+    text-decoration: none;
+}
+.down-cont{
+    top:0px;
+    border-radius: 100px;
+    width: 273px;
+    height: 60px;
+    border: 2px solid #5736B8;
+}
+.mein-block{
+    padding-left: 130px;
+    margin-top: 146px;
+}
+h1{
+    font-family:FiraGo;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 82px;
+    letter-spacing: -4px;
+    color: #1B1B1B;
+    margin-bottom: 40px;
+}
+p{
+    font-family:FiraGo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9B9B9B;
+}
+span{
+    font-family:FiraGo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #5736B8;
+}
+.donwload-btn{
+    margin-bottom: 215px;
+}
+.second{
+ 
+}
+.second a{
+    font-family:FiraGo;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #000000;
+    text-decoration: none;
+    
+}
+.first  a{
+    font-family:FiraGo;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    text-decoration: none;
+}
+.footer-block{
+    padding: 20px 60px 20px 45px;
+}
+.social-2{
+margin-left: 18px;
+margin-right: 20px;
+}
+.docs{
+margin-top: 88px;
+margin-right: 113px;
+}
